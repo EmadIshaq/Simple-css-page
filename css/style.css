@@ -1,0 +1,54 @@
+html,
+body {
+  margin: 20px;
+  padding: 20px;
+}
+
+#container {
+  background-color: rgb(238, 242, 245);
+  border: 2px solid black;
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h1 {
+  color: blue;
+  text-decoration-line: underline;
+  border: 2px solid black;
+  padding: 10px 10px 10px 10px;
+  margin: 13px 0px;
+}
+
+img {
+  border: 3px solid black;
+  max-width: 100%;
+  margin-bottom: 18px;
+  box-sizing: border-box;
+}
+
+p {
+  color: orange;
+  margin: auto;
+  padding: auto;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+
+hr {
+  border: 2px solid black;
+  margin-top: 18px;
+}
+
+#first-p {
+  color: green;
+  margin: auto;
+  padding: auto;
+}
+
+a {
+  color: rgb(223, 145, 0);
+  text-decoration-line: none;
+}
